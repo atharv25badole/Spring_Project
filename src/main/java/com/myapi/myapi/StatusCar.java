@@ -14,7 +14,7 @@ public class StatusCar {
     @GetMapping("/Status")
     public String show(){
 
-        return "Hello this is spring project, and we are going to automate this process";
+        return "Hello this is spring project, and we are going to automate this process using jenkins ";
     }
 
 }
